@@ -6,5 +6,6 @@ public class sample
 	{
 		System.out.println("Sample Program");
 		System.out.println("Sample Program");
+		System.out.println("Sample Program");
 	}
 }
